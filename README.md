@@ -18,3 +18,9 @@ More information:
 If you want to refer to DDAL in a publications, please cite the following paper:
 
 A. F. J. Costa, R. A. S. Albuquerque and E. M. d. Santos, "A Drift Detection Method Based on Active Learning," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, Brazil, 2018, pp. 1-8, doi: 10.1109/IJCNN.2018.8489364
+
+
+## DDM
+
+
+## EDDM
